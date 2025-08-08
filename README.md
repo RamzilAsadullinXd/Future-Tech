@@ -31,8 +31,7 @@ If you want to run it locally:
 
 - git clone https://github.com/RamzilAsadullinXd/Future-Tech
 - cd Future-Tech
-- npm i
-- npm dev
+- open index.html in browser
 
 ## 👤 Аfter
 - Developer: Ramzil Asadullin
