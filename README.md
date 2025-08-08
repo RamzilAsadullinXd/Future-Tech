@@ -12,7 +12,7 @@ Developed using HTML, SCSS, JavaScript. The site is fully responsive and include
 - HTML5  
 - SCSS (Flexbox/Grid, adaptability and 
 file structure)  
-- JS (video player, slider, accordion)  
+- JS (video player, select, form and the like)  
 
 ## 📷 Screenshot
 
